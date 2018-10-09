@@ -1,9 +1,8 @@
 ### How to setup
 
-1.  Run: `nvm install | nvm use`
-1.  Run: `npm i` to install the dependencies
-1.  Run: `npm run start` to run start the application
-1.  The browser shold automatically open your browser at `http://localhost:3000`
+1.  Run: `npm install` to install the dependencies
+2.  Run: `npm run start` to run start the application
+3.  The browser shold automatically open your browser at `http://localhost:3000`
 
 ### How to build
 
